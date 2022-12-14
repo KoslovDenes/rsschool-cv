@@ -9,6 +9,7 @@ email: e.markov.d.p@gmail.com
 Discord: DenesMrkv#6520  
 
 ## About me
+I have been working as a product manager (not really) in food delivery for 2 years now. I create beautiful and functional tables in Google Sheets. I want to improve my knowledge and become a developer. Decided to start with the frontend.  
 
 ## Code example
 ```
