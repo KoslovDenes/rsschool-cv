@@ -3,7 +3,6 @@
     padding: 0;
     color: #545454;
     background-color: #CFCFCF;
-    
 }
 
 html {
@@ -17,11 +16,10 @@ body {
 
 
 
-
-/* -----  Tags  ----- */
 a {
     text-decoration: none;
 }
+
 a:hover {
     text-decoration: underline;
     color: #000000;
@@ -31,9 +29,6 @@ img {
     height: 100%;
 }
 
-
-/* ---------------  HEADER  --------------- */
-
 .header {
     padding: 20px 20px;
     align-items: center; 
@@ -41,25 +36,23 @@ img {
     justify-content: center;
 }
 
-
-/* ---------------  NAV  --------------- */
 .nav {
     width: 35%;
     margin: 0px auto;
 }
+
 .nav-list {
     list-style: none;
     display: flex;
     justify-content: left;
     align-items: center;
 }
+
 .nav-link {
     padding: 0 20px;
     line-height: 50px;
     transition: .3s;
 }
-
-/* ---------------  MAIN  --------------- */
 
 .main-container {
     display: flex;
@@ -85,26 +78,27 @@ img {
     text-transform: uppercase;
 }
 
-.my_photo {
+.my-photo {
     height: 120px;
     opacity: .8;
     text-align: center;
 }
+
 .info {
     padding: 20px 10px;
     font-size: 10px;
     margin: auto 10px;
 }
+
 .my-name {
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 3;
 }
+
 .my-profession {
     letter-spacing: .5;
 }
-
-/* ---------------  FOOTER  --------------- */
 
 .footer {
     display: flex;
@@ -134,6 +128,7 @@ img {
     opacity: .6;
     padding: 30px;
 }
+
 .rsschool:hover {
     opacity: 0.9;
 }
